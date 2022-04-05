@@ -38,3 +38,4 @@ curl -s localhost:8080/greeting?user=hogehoge | jq
 ## 参考
 
 - [Spring Boot REST API の作成](https://spring.pleiades.io/guides/gs/rest-service/)
+- [REST API で CORS を有効化](https://spring.pleiades.io/guides/gs/rest-service-cors/)
